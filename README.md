@@ -12,7 +12,7 @@ Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compart
 
 ## 🌐 Onde me encontrar
 
-[![GitHub](https://github.com/DiegoASilva0)
+![GitHub](https://github.com/DiegoASilva0)
 
 
 ## 🛠️ Tech Stack
