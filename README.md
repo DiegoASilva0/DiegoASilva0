@@ -25,7 +25,12 @@ Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compart
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img
+    align='left'
+    title='JAVA'
+    width='30px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
           
           
 
