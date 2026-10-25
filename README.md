@@ -29,6 +29,7 @@ Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compart
     align='left'
     title='JAVA'
     width='50px'
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
           
