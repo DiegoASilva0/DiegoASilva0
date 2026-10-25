@@ -12,7 +12,7 @@ Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compart
 
 ## 🌐 Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-herbertcarnaubadesouza-181717?style=for-the-badge&logo=github)](https://github.com/DiegoASilva0)
+[![GitHub](https://img.shields.io/badge/GitHub-DiegoASilva0-181717?style=for-the-badge&logo=github)](https://github.com/DiegoASilva0)
 
 
 ## 🛠️ Tech Stack
