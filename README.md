@@ -1,7 +1,5 @@
 Olá! 👋 Eu sou Diego Araujo
 
-🇧🇷 Brasil
-
 Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compartilhar meus projetos, aprendizados e experiências com programação.
 
 🧠 O que faço
@@ -28,12 +26,6 @@ Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compart
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
