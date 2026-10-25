@@ -1,12 +1,18 @@
-Olá! 👋 Eu sou Herbert Souza
+Olá! 👋 Eu sou Diego Araujo
 
 🇧🇷 Brasil
 
 Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compartilhar meus projetos, aprendizados e experiências com programação.
 
+🧠 O que faço
+
+- 🌐 Crio sites e projetos relacionados à programação
+- 💡 Exploro ideias e transformo aprendizados em projetos
+- 📚 Estou sempre aprendendo e aprimorando minhas habilidades
+
 ## 🌐 Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-herbertcarnaubadesouza-181717?style=for-the-badge&logo=github)](https://github.com/herbertcarnaubadesouza)
+[![GitHub](https://github.com/DiegoASilva0)
 
 
 ## 🛠️ Tech Stack
@@ -28,10 +34,6 @@ Gosto de tecnologia e desenvolvimento de software. Uso este espaço para compart
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
-
-## 💻 Sobre este perfil
-
-Aqui compartilho projetos e conteúdos relacionados à programação e à criação de sites. Estou sempre aprendendo e buscando melhorar a cada projeto.
 
 ---
 
